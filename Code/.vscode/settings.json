@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "array": "c",
+        "deque": "c",
+        "vector": "c",
+        "string_view": "c",
+        "random": "c"
+    }
+}
